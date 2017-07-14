@@ -1,0 +1,17 @@
+#windosw
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#python
+*.py[cod]
+*.so
+*.egg
+#.egg-info
+dist
+build
+
+#myignore
+log
+test.py
+.idea
